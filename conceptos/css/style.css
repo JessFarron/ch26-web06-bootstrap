@@ -1,0 +1,22 @@
+/*div {
+    border: solid black 2px;
+
+}*/
+
+.demo-content {
+    padding: 15px;
+    background: #dbdfe5;
+}
+
+.bg-alt{
+    background-color: aqua;
+}
+
+.main-content {
+    min-height: 230px;
+}
+
+.sidebar-conten {
+    min-height: 100px;
+    margin-bottom: 10px;
+}
